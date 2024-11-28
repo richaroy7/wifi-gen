@@ -1,0 +1,32 @@
+# Byte-compiled Python files
+*.py[cod]
+__pycache__/
+*.pyo
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+
+# Logs and databases
+*.log
+*.db
+
+# CSV and other generated data files
+*.csv
+*.json
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Operating system files
+.DS_Store
+Thumbs.db
